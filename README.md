@@ -5,7 +5,8 @@
 Thanks.
 
 ## Contributors
-boka (boka@slickage.com)
+boka (boka@slickage.com)  
+jgefroh (joseph.gefroh@gmail.com)
 
 ## Messages
 boka:  Thank you!
