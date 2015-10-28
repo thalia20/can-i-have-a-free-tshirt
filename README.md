@@ -1,4 +1,7 @@
 # can-i-have-a-free-tshirt
+[Digital Ocean's Hacktoberfest T-Shirt Giveaway](https://hacktoberfest.digitalocean.com/)  
+[Verify Your Contributions](http://hf.heidilabs.com/?utm_medium=community&utm_source=hacktoberfest&utm_campaign=digest2)  
+
 Thanks.
 
 ## Contributors
