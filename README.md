@@ -15,3 +15,6 @@ Thank You Very Much
 
 ## The Badum Tish
 I asked DigitalOcean for a free T-Shirt, but it was a total acid-wash.
+
+## The Paradox
+Is a free t-shirt really free if I have to contribute to open source software and make pull requests?
