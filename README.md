@@ -22,3 +22,6 @@ I asked DigitalOcean for a free T-Shirt, but it was a total acid-wash.
 
 ## The Paradox
 Is a free t-shirt really free if I have to contribute to open source software and make pull requests?
+
+## The Pledge
+We, the people creating PRs from this repository, pledge that we will one day make real contributions to Open Source in order to earn the t-shirt. We assure Digital Ocean and GitHub that giving us the t-shirt is therefore truly Utilitarian.
