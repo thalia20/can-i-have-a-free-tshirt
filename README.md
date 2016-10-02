@@ -25,3 +25,6 @@ Is a free t-shirt really free if I have to contribute to open source software an
 
 ## The Pledge
 We, the people creating PRs from this repository, pledge that we will one day make real contributions to Open Source in order to earn the t-shirt. We assure Digital Ocean and GitHub that giving us the t-shirt is therefore truly Utilitarian.
+
+## Back for 2016
+Another year, another t-shirt! I've written quite a few open source applications this year.
