@@ -27,3 +27,6 @@ We, the people creating PRs from this repository, pledge that we will one day ma
 
 ## Back for 2016
 Another year, another t-shirt! I've written quite a few open source applications this year.
+
+## Just a final PR
+The last PR until next time!
