@@ -9,12 +9,12 @@ jgefroh (joseph.gefroh@gmail.com)
 
 ## Messages
 boka:  Thank you!
-
+Dr Joe Bell: Thanks :hugs:
 
 ## The Haiku
 Digital Ocean  
 Please give me a free tshirt  
-Thank You Very Much  
+Thank You Very Much 
 
 ## The Badum Tish
 I asked DigitalOcean for a free T-Shirt, but it was a total acid-wash.
