@@ -8,13 +8,13 @@ boka (boka@slickage.com)
 jgefroh (joseph.gefroh@gmail.com)
 
 ## Messages
-boka:  Thank you!
+boka:  Thank you!  
 Dr Joe Bell: Thanks :hugs:
 
 ## The Haiku
-Digital Ocean  
-Please give me a free tshirt  
-Thank You Very Much 
+DigitalOcean  
+Please give me a free T-shirt  
+Thank you very much 
 
 ## The Badum Tish
 I asked DigitalOcean for a free T-Shirt, but it was a total acid-wash.
