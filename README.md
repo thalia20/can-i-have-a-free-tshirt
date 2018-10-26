@@ -32,7 +32,7 @@ Another year, another t-shirt! I've written quite a few open source applications
 The last PR until next time!
 
 ## Free 
-Free
+Free for all
 
 ## 2018 is here
 Time flies doesn't it?
